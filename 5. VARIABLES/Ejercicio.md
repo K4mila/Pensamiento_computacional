@@ -29,10 +29,10 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
 
       1-inicio
       2-declarar (nombre)
-      3-asignar cal1
-      4-asignar cal2
-      5-asignar cal3
-      6-asignar cal4
+      3-asignar cal1<-0
+      4-asignar cal2<-0
+      5-asignar cal3<-0
+      6-asignar cal4<-0
       7.asignar promedio
       8-mostrar (nombre)
       9-asignar (nombre)

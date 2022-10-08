@@ -1,4 +1,4 @@
-    Algoritmo sin_titulo
+     Algoritmo sin_titulo
       nombre<-""
       cal1<-0
       cal2<-0

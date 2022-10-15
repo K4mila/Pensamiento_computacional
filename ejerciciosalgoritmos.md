@@ -24,3 +24,26 @@
      mostrar letra," no es vocal"
      fin si
      
+     Algoritmo sin_titulo
+	num<-0
+	Escribir "ingresa un numero del 1 al 7"
+	Leer num 
+	Segun num Hacer
+	     1:
+			Escribir "corresponde a lunes"
+		2:
+			Escribir "corresponde a martes"
+		3:
+			Escribir "corresponde a miercoles"
+		4:
+			Escribir "corresponde a jueves"
+		5:
+			Escribir "corresponde a viernes"
+	     6:  
+			Escribir "corresponde a sabado"
+		7:
+			Escribir "corresponde a domingo"
+		De Otro Modo:
+			Escribir "numero fuera de rango"
+			Fin Segun
+      FinAlgoritmo

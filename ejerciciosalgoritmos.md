@@ -47,3 +47,5 @@
 			Escribir "numero fuera de rango"
 			Fin Segun
       FinAlgoritmo
+
+     

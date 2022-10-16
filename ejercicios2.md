@@ -27,3 +27,5 @@
         Escribir "reprobo"
       Fin Si
     FinAlgoritmo
+
+   
